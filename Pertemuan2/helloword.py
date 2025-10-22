@@ -1,0 +1,1 @@
+print("Hello,Grafika Komputer!")
